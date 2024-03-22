@@ -106,7 +106,7 @@ func _on_timer_timeout() -> void:
 
 soit via l'UI:
 
-![alt text](doc/timer.png)
+![alt text](./timer.png)
 
 Ne pas oublier de reset la position et la rotation du missile dans sa scène pour qu'il hérite de celle de son parent.
 
